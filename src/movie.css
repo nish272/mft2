@@ -5,7 +5,8 @@ body{
     font-family: Arial,  sans-serif;
     margin: 0%;
     padding: 0%;
-    background-color: #1bb94349;
+ 
+    background: radial-gradient(circle, rgb(114, 228, 82)0%, rgb(100, 192, 232) 30%, rgb(245, 115, 195) 65%,rgba(103, 54, 217,.5) 100%);
 }
 .container{
     margin: 0% auto;
