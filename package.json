@@ -7,7 +7,7 @@
   "homepage": "https://nish272.github.io/mft2",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+     "build": "vite build --base=/mft2/",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
