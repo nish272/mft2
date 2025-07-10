@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import './Movie.css';
+// import './Movie.css';
+import './movie.css';
 import { AiOutlineSearch } from 'react-icons/ai';
 import axios from 'axios';
 
